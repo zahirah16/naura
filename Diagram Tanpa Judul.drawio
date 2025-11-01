@@ -1,9 +1,138 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Halaman-1" id="1qrgIgKdH71Er7ClFe70">
-    <mxGraphModel>
+    <mxGraphModel dx="2847" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WZ83UrEylSKhT27ezWV3-3" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WZ83UrEylSKhT27ezWV3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-6" value="Login Aplikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.5" y="260" as="sourcePoint" />
+            <mxPoint x="119.5" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119.5" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.5" y="410" as="sourcePoint" />
+            <mxPoint x="119.5" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119.5" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-10" value="Lihat daftar pedagang kantin yang aktif" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.008;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WZ83UrEylSKhT27ezWV3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="520" as="sourcePoint" />
+            <mxPoint x="310" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="520" />
+              <mxPoint x="230" y="520" />
+              <mxPoint x="260" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-16" value="Pilih menu dan pedagang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.63" y="550" as="sourcePoint" />
+            <mxPoint x="629.63" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="629.63" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-20" value="Rancangan Desain Aplikasi&amp;nbsp;&lt;div&gt;SmartCanteen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-21" value="Kelompok 4&lt;div&gt;1.Dyvia Fadilla Nazneen&lt;/div&gt;&lt;div&gt;2.Naura Qalya Zahirah&lt;/div&gt;&lt;div&gt;3.Nazmi Syahla&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;4.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Kaylla Aisyanur &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" width="157" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-22" value="Verifikasi Berhasil?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WZ83UrEylSKhT27ezWV3-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="569" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="479" y="520" />
+              <mxPoint x="519" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-24" value="Pilih Metode pembayaran" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-25" value="Pedgang siapakan makanan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="590" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="670" as="sourcePoint" />
+            <mxPoint x="630" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-28" value="Notifikasi &quot;pesanan siap&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="820" as="sourcePoint" />
+            <mxPoint x="630" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-30" value="Ambil pesanan di kantin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="970" as="sourcePoint" />
+            <mxPoint x="630" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-32" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1060" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-36" value="Tidak" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ83UrEylSKhT27ezWV3-37" value="iya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
